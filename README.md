@@ -4,7 +4,7 @@
 Telecom companies struggle with time-consuming and resource-heavy on-site line of sight (LOS) surveys for network expansion and upgrades. This leads to delays, inefficiencies, and potential connectivity issues due to inaccurate planning.
 
 ## Screenshots
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text]("methodology plan.png")
 
 # Data Integration: 
 Utilize open-source weather APIs, satellite imagery and datasets for real-time data for model training and testing.
